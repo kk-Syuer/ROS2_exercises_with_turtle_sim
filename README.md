@@ -15,9 +15,6 @@ Each one introduces a key component of the ROS 2 ecosystem and builds toward the
 ---
 
 ## 🧩 Workspace Structure
-
-```
-
 ros2_ws/
 ├── src/
 │   ├── py_pubsub/                # Publisher & Subscriber example
@@ -32,6 +29,10 @@ ros2_ws/
 │   │   └── wall_square_follower.py  # Follower logic example
 │   ├── patrol_interfaces/        # Custom Action Interface definition
 │   └── action_tutorials_interfaces/  # Fibonacci example (from ROS tutorial)
+
+```
+
+
 
 ````
 
