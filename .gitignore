@@ -1,0 +1,13 @@
+# ROS 2 workspace
+build/
+install/
+log/
+.colcon/
+# Python
+__pycache__/
+*.pyc
+# VS Code
+.vscode/
+# OS cruft
+.DS_Store
+Thumbs.db

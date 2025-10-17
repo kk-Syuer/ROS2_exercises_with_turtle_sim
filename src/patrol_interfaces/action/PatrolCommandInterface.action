@@ -1,0 +1,8 @@
+# Goal
+geometry_msgs/Point[] targets
+---
+# Result
+bool done
+---
+# Feedback
+int32 current_index

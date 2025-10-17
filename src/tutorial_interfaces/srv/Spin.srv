@@ -1,0 +1,3 @@
+int8 dir #+1 for counterclockwise, -1 for clockwise, accept also 0
+---
+string res #simple response message
