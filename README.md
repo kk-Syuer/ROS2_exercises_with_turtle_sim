@@ -1,7 +1,3 @@
-Perfect 💪 Here’s a clean, professional, and nicely formatted **`README.md`** for your GitHub repository — ready to copy-paste.
-It’s designed to look good both on desktop and mobile GitHub views, and includes all commands and explanations clearly.
-
----
 
 ```markdown
 # 🐢 ROS2 Workspace — Learning Robotics with Turtlesim
